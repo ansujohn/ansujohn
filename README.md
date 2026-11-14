@@ -36,7 +36,7 @@ I'm Ansu John
 
 **Delivery:** GitHub, Dynatrace, Grafana, Kibana, JIRA, Confluence
 
-**Gen AI:** Claude Code, GitHub Copilot, Atlassian Rovo
+**Gen AI:** GitHub Copilot, Atlassian Rovo, Claude Code(personal projects)
 
 ## 🏅 Certifications
 
